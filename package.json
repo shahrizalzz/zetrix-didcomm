@@ -1,0 +1,26 @@
+{
+  "name": "zetrix-didcomm",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Izzatur Rahman",
+  "contributors": [
+    "Ammar Abdullah"
+  ],
+  "license": "ISC",
+  "description": "DID communication library for Zetrix",
+  "type": "module",
+  "dependencies": {
+    "base-x": "^5.0.1",
+    "futoin-hkdf": "^1.5.3",
+    "tweetnacl": "^1.0.3",
+    "uuid": "^11.1.0",
+    "zetrix-encryption-nodejs": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}
