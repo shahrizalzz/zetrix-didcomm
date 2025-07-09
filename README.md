@@ -87,5 +87,4 @@ install the dependencies:
 `npm install`  # Or use `yarn install` if you prefer yarn over npm
 
 run the application:
-
-`npm serve`  # Or use `yarn serve`
+`npm run serve`  # Or use `yarn serve`
